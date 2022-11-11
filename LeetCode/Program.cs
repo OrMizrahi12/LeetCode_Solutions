@@ -10,8 +10,11 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            CountDistinctIntegersS countDistinctIntegersS = new CountDistinctIntegersS();
-            Console.WriteLine(countDistinctIntegersS.CountDistinctIntegers(new int[] { 1, 13, 10, 12, 31 } ));
+      
+            ReverseS reverseS = new ReverseS();
+
+            Console.WriteLine(reverseS.Reverse(1534236469));
+            Console.WriteLine(Math.Pow(2,32));
         }
     }
 }
