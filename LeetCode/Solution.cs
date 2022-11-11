@@ -9,11 +9,6 @@ namespace LeetCode
     public class TwoSum
     {
         
-        public void Send()
-        {
-            int[] nums = { 2, 7, 11, 15 };
-            GetTwoSum(nums, 9);
-        }
         public static int[] GetTwoSum(int[] nums, int target)
         {
             int[] arrResult;
@@ -26,7 +21,7 @@ namespace LeetCode
                     sum += nums[i];
                     listResult.Add(i);
                 }
-            return arrResult = listResult.ToArray(); ;
+            return arrResult = listResult.ToArray(); 
         }
     }
 }
