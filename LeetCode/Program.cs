@@ -11,7 +11,8 @@ namespace LeetCode
         static void Main(string[] args)
         {
           FindMedianSortedArraysS findMedianSortedArraysS = new FindMedianSortedArraysS();
-            Console.WriteLine(findMedianSortedArraysS.FindMedianSortedArrays(new int[] { 1, 1 }, new int[] {1, 2})); 
+            FindMaxKS findMaxKS = new FindMaxKS();
+            Console.WriteLine(findMaxKS.FindMaxK(new int[] { 1, -1, 4, -4, 8 }));
         }
     }
 }

@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FindMaxKS.cs" />
     <Compile Include="FindMedianSortedArrays.cs" />
     <Compile Include="FindPeakElement.cs" />
     <Compile Include="PeakIndexInMountainArrayS.cs" />
