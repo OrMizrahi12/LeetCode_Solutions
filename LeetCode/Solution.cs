@@ -8,6 +8,7 @@ namespace LeetCode
 {
     public class TwoSum
     {
+        
         public void Send()
         {
             int[] nums = { 2, 7, 11, 15 };

@@ -43,9 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FindPeakElement.cs" />
+    <Compile Include="PeakIndexInMountainArrayS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solution.cs" />
+    <Compile Include="SubStringNoRepeat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

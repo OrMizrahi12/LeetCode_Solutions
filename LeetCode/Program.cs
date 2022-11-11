@@ -10,11 +10,9 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            TwoSum twoSum = new TwoSum();
-            twoSum.Send();
-
+            SubStringNoRepeat subStringNoRepeat = new SubStringNoRepeat();
+            PeakIndexInMountainArrayS peakIndexInMountainArrayS = new PeakIndexInMountainArrayS();
+            Console.WriteLine(peakIndexInMountainArrayS.PeakIndexInMountainArray(new int[] { 0, 10, 5, 2})); 
         }
-
-
     }
 }
