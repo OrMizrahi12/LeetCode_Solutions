@@ -10,9 +10,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-          FindMedianSortedArraysS findMedianSortedArraysS = new FindMedianSortedArraysS();
-            FindMaxKS findMaxKS = new FindMaxKS();
-            Console.WriteLine(findMaxKS.FindMaxK(new int[] { 1, -1, 4, -4, 8 }));
+            CountDistinctIntegersS countDistinctIntegersS = new CountDistinctIntegersS();
+            Console.WriteLine(countDistinctIntegersS.CountDistinctIntegers(new int[] { 1, 13, 10, 12, 31 } ));
         }
     }
 }
