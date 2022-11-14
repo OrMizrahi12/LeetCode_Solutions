@@ -49,6 +49,7 @@
     <Compile Include="Solutions\FindPeakElement.cs" />
     <Compile Include="Solutions\IsPalindromeS.cs" />
     <Compile Include="Solutions\LongestCommonPrefixS.cs" />
+    <Compile Include="Solutions\MergeS.cs" />
     <Compile Include="Solutions\PeakIndexInMountainArrayS.cs" />
     <Compile Include="Solutions\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
