@@ -1,2 +1,3 @@
 # LeetCode_Solutions
-as is.  
+As is.
+
