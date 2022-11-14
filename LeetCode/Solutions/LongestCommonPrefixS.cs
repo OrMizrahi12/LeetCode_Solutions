@@ -8,7 +8,6 @@ namespace LeetCode.Solutions
 {
     internal class LongestCommonPrefixS
     {
-      
         public string LongestCommonPrefix(string[] strs)
         {
             int x = 0, doplication = 0;
