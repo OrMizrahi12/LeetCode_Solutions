@@ -43,16 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CountDistinctIntegersS.cs" />
-    <Compile Include="FindMaxKS.cs" />
-    <Compile Include="FindMedianSortedArrays.cs" />
-    <Compile Include="FindPeakElement.cs" />
-    <Compile Include="PeakIndexInMountainArrayS.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Solutions\CountDistinctIntegersS.cs" />
+    <Compile Include="Solutions\FindMaxKS.cs" />
+    <Compile Include="Solutions\FindMedianSortedArrays.cs" />
+    <Compile Include="Solutions\FindPeakElement.cs" />
+    <Compile Include="Solutions\IsPalindromeS.cs" />
+    <Compile Include="Solutions\LongestCommonPrefixS.cs" />
+    <Compile Include="Solutions\PeakIndexInMountainArrayS.cs" />
+    <Compile Include="Solutions\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReverseS.cs" />
-    <Compile Include="Solution.cs" />
-    <Compile Include="SubStringNoRepeat.cs" />
+    <Compile Include="Solutions\ReverseS.cs" />
+    <Compile Include="Solutions\RomanToIntS.cs" />
+    <Compile Include="Solutions\Solution.cs" />
+    <Compile Include="Solutions\SubStringNoRepeat.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
