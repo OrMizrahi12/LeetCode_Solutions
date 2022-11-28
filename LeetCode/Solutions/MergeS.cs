@@ -8,7 +8,6 @@ namespace LeetCode.Solutions
 {
     internal class MergeS
     {
-
         public void Merge(int[] nums1, int m, int[] nums2, int n)
         {
             Array.Resize(ref nums1, m + n);

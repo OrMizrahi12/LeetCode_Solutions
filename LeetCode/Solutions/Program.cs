@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace LeetCode
 {
@@ -11,8 +12,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            MergeS mergeS = new MergeS();
-            mergeS.Merge(new int[] { 1, 5, 2 }, 3, new int[] { 4, 5,7 }, 3);
+            GenerateS generateS = new GenerateS();
+            generateS.Generate(5); 
         }
     }
 }
